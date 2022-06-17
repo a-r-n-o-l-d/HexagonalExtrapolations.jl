@@ -1,2 +1,10 @@
 # This file is machine-generated - editing it directly is not advised
 
+manifest_format = "2.0"
+
+[[deps.HexagonalArrays]]
+git-tree-sha1 = "33fbccb98d3241b8475fcc0b1ba89e98f8e2c473"
+repo-rev = "master"
+repo-url = "https://github.com/a-r-n-o-l-d/HexagonalArrays.jl"
+uuid = "e7428160-d03f-46d2-b46d-0a3a5554cbe0"
+version = "0.1.1"

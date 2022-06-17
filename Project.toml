@@ -3,6 +3,9 @@ uuid = "1261df5c-db91-411d-bd41-5833b1560547"
 authors = ["Arnold"]
 version = "0.1.0"
 
+[deps]
+HexagonalArrays = "e7428160-d03f-46d2-b46d-0a3a5554cbe0"
+
 [compat]
 julia = "1.7"
 
